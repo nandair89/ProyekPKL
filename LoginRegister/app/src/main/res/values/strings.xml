@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HOME SECURITY SYSTEM</string>
+    <string name="firstpg">MASUKKAN PIN</string>
+    <string name="firstpg2">HOME SECURITY SYSTEM</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_activity_register">REGISTER</string>
+    <string name="title_activity_login">LOGIN</string>
+    <string name="titel_register">Silahkan Lakukan Pendaftaran</string>
+    <string name="tanya1">Sudah punya akun?</string>
+    <string name="jawan1">Login</string>
+    <string name="tanya2">Belum punya akun?</string>
+    <string name="jawan2">Register</string>
+    <string name="bukatutup">BUKA/TUTUP PINTU</string>
+    <string name="cctv">LIHAT CCTV</string>
+    <string name="suhu">SUHU RUANGAN SAAT INI</string>
+    <string name="udara">KUALITAS UDARA RUANGAN SAAT INI</string>
+</resources>
